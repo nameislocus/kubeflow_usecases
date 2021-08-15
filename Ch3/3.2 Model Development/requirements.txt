@@ -1,0 +1,17 @@
+numpy
+requests
+Flask
+Pillow
+tensorflow
+pandas
+matplotlib
+jupyter
+torch
+pandas
+torchvision
+scikit-learn 
+scipy
+sklearn
+joblib
+jinja2==2.11.3
+beautifulsoup4==4.6.3
